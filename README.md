@@ -1,5 +1,7 @@
-# TechDocsHub
-This repo contains Important articles, websites, documentations etc. related tech and new trend technologies
+![MasterHead](https://github.com/GDSCITM/TechDocsHub/blob/main/image/Techdocshub.jpg)
+<h1 align="center">Repository at aim to provide you best articles, documentations and concepts📢</h1>
+
+<h3 align="center">An open source repository, we welcome your contributions🤝</h3>
 
 
 ## Table of Contents
@@ -80,6 +82,7 @@ This repo contains Important articles, websites, documentations etc. related tec
 ## Blockchain
 
 - [Ethereum](#ethereum)
+
 
 
 
