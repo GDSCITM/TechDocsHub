@@ -18,7 +18,7 @@
 - [Data Science](#data-science)
 - [Blockchain](#blockchain)
 
-## Programming Languages :hammer_and_wrench:
+## Programming Languages 
 
 - [Python](#python)
 - [JavaScript](#javascript)
@@ -27,7 +27,7 @@
 - [C](#c)
 - [go](#go)
 
-## Web Development :desktop_computer:
+## Web Development 
 
 - [HTML](#html)
 - [CSS](#css)
@@ -39,47 +39,47 @@
 - [Express](#express)
 - [Django](#django)
 
-## App Development :iphone:
+## App Development 
 
 - [Android](#android)
 
-## Database :bucket:
+## Database 
 
 - [MySQL](#mysql)
 - [MongoDB](#mongodb)
 
-## Cloud :cloud:
+## Cloud 
 
 - [AWS](#aws)
 - [Azure](#azure)
 - [GCP](#gcp)
 
-## DevOps :package:
+## DevOps 
 
 - [Docker](#docker)
 - [Kubernetes](#kubernetes)
 
-## Security :closed_lock_with_key:
+## Security 
 
 - [OWASP](#owasp)
 
-## Machine Learning :brain:
+## Machine Learning 
 
 - [TensorFlow](#tensorflow)
 - [PyTorch](#pytorch)
 - [Scikit-learn](#scikit-learn)
 
-## Artificial Intelligence :robot:
+## Artificial Intelligence 
 
 - [OpenAI](#openai)
 
-## Data Science :chart_with_upwards_trend:
+## Data Science 
 
 - [Pandas](#pandas)
 - [Numpy](#numpy)
 - [Matplotlib](#matplotlib)
 
-## Blockchain :knot:
+## Blockchain 
 
 - [Ethereum](#ethereum)
 
