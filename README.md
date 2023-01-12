@@ -1,10 +1,13 @@
 ![MasterHead](https://github.com/GDSCITM/TechDocsHub/blob/main/image/Techdocshub.jpg)
 <h1 align="center">Repository at aim to provide you best articles, documentations and concepts📢</h1>
 
+![](https://i.imgur.com/waxVImv.png)
+
 <h3 align="center">An open source repository, we welcome your contributions🤝</h3>
 
 
 ## Table of Contents
+![](https://i.imgur.com/waxVImv.png)
 
 - [Programming Languages](#programming-languages)
 - [Web Development](#web-development)
