@@ -83,6 +83,46 @@
 
 - [Ethereum](#ethereum)
 
+## Python
+
+<h4> Roadmap🛣️ </h4>
+
+- [Python Roadmap- Path to become python developer](https://roadmap.sh/python)
+
+<h4> Articles📝 </h4>
+
+- [Python for Beginners- by Medium](https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2)
+- [Python for Intermediate- by Medium](https://towardsdatascience.com/10-topics-python-intermediate-programmer-should-know-3c865e8533d6)
+- [Python for Intermediate- by Real Python](https://realpython.com/tutorials/intermediate/)
+- [Collection of best Python articles](https://www.freecodecamp.org/news/python-collection-of-my-favorite-articles-8469b8455939/)
+- [Python for Advanced- by Real Python](https://realpython.com/tutorials/advanced/)
+- [Python for advanced - GeeksforGeeks](https://www.geeksforgeeks.org/top-10-advance-python-concepts-that-you-must-know/)
+
+<h4> Documentations📚 </h4>
+
+- [Python Documentation](https://docs.python.org/3/)
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+
+<h4> Vedios📹 </h4>
+
+- [Python for Beginners]()
+- [Python for Intermediate]()
+- [Python for Advanced]()
+
+
+<h4> Concepts📖 </h4>
+
+- [Python Concepts]()
+- [Python Data Structures]()
+- [Python Algorithms]()
+- [Python Design Patterns]()
+- [Python Best Practices]()
+
+
+
+
+
+
 
 
 
