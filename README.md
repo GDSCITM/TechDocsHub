@@ -108,9 +108,9 @@
 
 <h4> Vedios📹 </h4>
 
-- [Python for Beginners]()
-- [Python for Intermediate]()
-- [Python for Advanced]()
+- [Python for Beginners](https://www.youtube.com/watch?v=gfDE2a7MKjA)
+- [Python for Intermediate](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+- [Python for Advanced](https://www.youtube.com/watch?v=61a7UkDO50s)
 
 
 <h4> Concepts📖 </h4>
