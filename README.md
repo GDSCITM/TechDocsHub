@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/GDSCITM/TechDocsHub/blob/main/image/Techdocshub.jpg)
+![MasterHead](https://github.com/GDSCITM/TechDocsHub/blob/main/image/Techdocshub.gif)
 <h1 align="center">Repository at aim to provide you best articles, documentations and concepts📢</h1>
 
 ![](https://i.imgur.com/waxVImv.png)
