@@ -121,6 +121,13 @@
 - [Python Design Patterns]()
 - [Python Best Practices]()
 
+## JavaScript
+
+<h4> Roadmap🛣️ </h4>
+
+- [Javascript Roadmap- Path to become Javascript developer](https://roadmap.sh/javascript)
+
+
 
 
 
